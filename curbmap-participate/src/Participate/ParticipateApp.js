@@ -1,4 +1,6 @@
-import react, { Component } from "react";
+import React, { Component } from "react";
+
+import "./ParticipateStyle.css";
 
 class ParticipateApp extends Component {
   state = {};
